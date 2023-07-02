@@ -1,5 +1,5 @@
 
-alert("Welcome to Dice game by Talha")
+alert("Welcome to Dice Game by Talha")
 function myFunction() {
     
     var p1=Math.floor(Math.random()*6)+1;
