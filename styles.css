@@ -122,6 +122,22 @@ footer {
   }
 }
 
+@media (max-width:480px){
+  .container{
+    width: 100%;
+    margin: 0%;
+    background-color: red;
+  }
+}
+
+@media (max-width:380px){
+  .container{
+    width: 100%;
+    margin: 0%;
+    background-color: green;
+  }
+}
+
 /* @media (max-width:920px) */
 
 /* *{
