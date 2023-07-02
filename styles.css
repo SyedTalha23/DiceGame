@@ -114,6 +114,13 @@ footer {
   color:black;
 }
 
+@media (max-width:720px){
+  .container{
+    width: 100%;
+    margin: 0%;
+    background-color: white;
+  }
+}
 
 /* @media (max-width:920px) */
 
